@@ -141,18 +141,3 @@ Feijoada - Nota: 4 - Comentário: Muito boa
 * Repetição de menus interativos
 * Organização modular do código em funções independentes
 
----
-
-##  Conclusão
-
-Este projeto demonstra bem os princípios iniciais de programação em C:
-
-* Modularização
-* Manipulação de arquivos
-* CRUD básico (criação, leitura, atualização)
-* Interação com o usuário
-* Armazenamento persistente
-
-É um ótimo passo para evoluir em direção a sistemas mais completos utilizando estruturas, ponteiros e até bancos de dados.
-
-Se quiser ampliar o sistema com novas funcionalidades, como exclusão de itens, edição de alimentos ou registro de usuários com validação avançada, posso ajudar!
