@@ -1,0 +1,5 @@
+Pizza; Massa, pepperoni e queijo; 1000kcal
+Strogonoff; Carne, molho, arroz e batata palha; 530kcal
+Feijoada; Feijão, arroz, linguiça, carne; 500kcal
+Hamburguer; Carne, pão, salada, queijo; 500 kcal
+Coca-cola; Coca-cola lata; 180kcal
