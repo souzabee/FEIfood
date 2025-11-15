@@ -1,3 +1,6 @@
+//Artur Guimarães de Souza
+//RA: 22.125.046-7
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
